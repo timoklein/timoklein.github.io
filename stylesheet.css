@@ -74,7 +74,10 @@ a:hover {
   text-decoration: none;
 }
 
-body {background-color: #282828;}
+body {
+    color: #ebdbb2;
+    background-color: #282828;
+}
 td,
 th,
 tr,
