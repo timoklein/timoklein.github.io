@@ -70,11 +70,11 @@ a {
 
 a:focus,
 a:hover {
-  color: #f09228;
+  color: #d65d0e;
   text-decoration: none;
 }
 
-body,
+body {background-color: #282828;}
 td,
 th,
 tr,
@@ -127,5 +127,5 @@ name {
 }
 
 span.highlight {
-  background-color: #282828;
+  background-color: #d79921;
 }
