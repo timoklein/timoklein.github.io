@@ -2,4 +2,4 @@
 
 My personal academic website.
 
-Based on [Jon Barron's template](https://jonbarron.info/). Favicon by [Yuluck](https://www.flaticon.com/authors/yuluck).
+Based on [Jon Barron's template](https://jonbarron.info/). Favicon by [Delwar018](https://www.flaticon.com/authors/delwar018).
